@@ -17,7 +17,7 @@ A new Flutter project as College Mini-Project
 
 ### Screenshots of the Application:
  #### Enable Location Services
- * ![Enable Location Services](https://github.com/prathyusha646/google_maps_flutter_navigation_routes/blob/main/Images/enabling%20location%20services.jpg width="200" height="400")
+ * ![Enable Location Services](https://github.com/prathyusha646/google_maps_flutter_navigation_routes/blob/main/Images/enabling%20location%20services.jpg =200x400)
 
  #### Start and destination Inputs
  * ![Start and destination Inputs](https://github.com/prathyusha646/google_maps_flutter_navigation_routes/blob/main/Images/start%20and%20destination%20inputs.jpg)
