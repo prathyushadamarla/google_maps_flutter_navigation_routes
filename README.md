@@ -25,6 +25,12 @@ A new Flutter project as College Mini-Project
  #### Terrain View of Map
  * ![Terrain View of Map](https://github.com/prathyusha646/google_maps_flutter_navigation_routes/blob/main/Images/terrain%20view%20of%20map.jpg)
 
+ #### Routes
+ * ![Routes](https://github.com/prathyusha646/google_maps_flutter_navigation_routes/blob/main/Images/route%201.jpg)
+ * ![Routes](https://github.com/prathyusha646/google_maps_flutter_navigation_routes/blob/main/Images/route%204.jpg)
+ * ![Routes](https://github.com/prathyusha646/google_maps_flutter_navigation_routes/blob/main/Images/route%205.jpg)
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
