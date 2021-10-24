@@ -16,7 +16,14 @@ A new Flutter project as College Mini-Project
   * Build an application that detects the users location, takes the destination as input and shows the route between the user location and destination.
 
 ### Screenshots of the Application:
+ #### Enable Location Services
+ * ![Enable Location Services](https://github.com/prathyusha646/google_maps_flutter_navigation_routes/blob/main/Images/enabling%20location%20services.jpg)
 
+ #### Start and destination Inputs
+ * ![Start and destination Inputs](https://github.com/prathyusha646/google_maps_flutter_navigation_routes/blob/main/Images/start%20and%20destination%20inputs.jpg)
+
+ #### Terrain View of Map
+ * ![Terrain View of Map](https://github.com/prathyusha646/google_maps_flutter_navigation_routes/blob/main/Images/terrain%20view%20of%20map.jpg)
 
 A few resources to get you started if this is your first Flutter project:
 
