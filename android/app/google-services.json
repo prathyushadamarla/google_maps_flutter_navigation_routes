@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "63196817214",
+    "project_id": "gec-navigation-f39c5",
+    "storage_bucket": "gec-navigation-f39c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63196817214:android:81ba7bbd170a8bcc832e6f",
+        "android_client_info": {
+          "package_name": "com.example.gec_navigation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63196817214-nsfe6edtauh0mrvffdu66dv4qifle7t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gec_navigation",
+            "certificate_hash": "bf4dafa3b685830e02a827b10f895a37f64d3007"
+          }
+        },
+        {
+          "client_id": "63196817214-gap87ilbjkse0ggfmi25m6v3en6625v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx0vMhUb7tZsed83xAyJlIBrJx23AGeN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63196817214-gap87ilbjkse0ggfmi25m6v3en6625v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
