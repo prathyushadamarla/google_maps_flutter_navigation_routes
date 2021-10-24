@@ -1,10 +1,13 @@
-# gec_navigation
+# Navigation
 
-A new Flutter project.
+A new Flutter project as College Mini-Project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Title: GEC Navigation
+
+### Objective:
+  * This app detects the current location of the user and show the right path till the destination.
 
 A few resources to get you started if this is your first Flutter project:
 
